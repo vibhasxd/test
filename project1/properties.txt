@@ -1,6 +1,0 @@
-sonar.host.url=http://localhost:9000
-sonar.projectKey="test"
-sonar.projectName="test"
-sonar.sourceEncoding=UTF-8
-sonar.sources=test/test
-sonar.language=python
